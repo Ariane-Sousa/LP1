@@ -15,16 +15,15 @@
 
 ## Interface gráfica
 <div align="center">
-<img src="https://user-images.githubusercontent.com/108765052/189155183-3f5bcf49-51b1-4639-83fd-8fa96daaca9f.png" width="450px" />
+<img src="https://user-images.githubusercontent.com/108765052/189555639-264840cc-329f-449a-8d6b-6e31f150be24.png" width="450px" />
 </div>
 
 # Saída 
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/108765052/189155425-345afb5c-9d9b-4086-a2c8-5f268bc3b56d.png" />
+<img src="https://user-images.githubusercontent.com/108765052/189555659-bda0f83a-7e13-4764-96b6-d2a6b840a2a4.png" />
 </div>
 
 # Dados gravados em arquivo csv
 <div align="center">
-<img src="https://user-images.githubusercontent.com/108765052/189155490-6fcccae6-140f-4c4d-a504-16ff14ddbd65.png" width="550px" />
+<img src="https://user-images.githubusercontent.com/108765052/189555766-ee35a72f-e49d-4b5e-937a-c9cc7e86a8ff.png" width="650px" />
 </div>
